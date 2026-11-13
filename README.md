@@ -1,4 +1,4 @@
 # SP-Community-Newsletters
-This repository is where all public Community Newsletter files featured on the SP Platform are housed, branched, and collaborated on.  These are specifically for Government Bill proposals, and other Newsletters that exist in the public domain, and carry a license that requires crediting the creator whenever referenced.
+This repository is where all public Community Newsletter files featured on the SP Platform are housed, branched, and collaborated on. These are specifically for Government Bill proposals, and other Newsletters that exist in the public domain. All docs in this repo carry a license that requires crediting the creator whenever referenced.
 ## License Notification
 © 2026 Strategic Pivot and contributors. This content is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. Attribution: credit the contributors listed in the Git history and on the corresponding Strategic Pivot article page.
